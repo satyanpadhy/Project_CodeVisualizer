@@ -1,0 +1,35 @@
+# Codebase Analyzer Configuration
+
+# Language support
+supported_languages:
+  - python
+  - java
+  - c
+  - cpp
+
+# Output settings
+output_directory: "output"
+graph_dpi: 300
+graph_format: "png"
+
+# Cache settings
+cache_enabled: true
+cache_directory: ".cache"
+
+# Processing settings
+parallel_processing: true
+max_workers: 4
+max_file_size_mb: 10
+
+# Logging
+log_level: "DEBUG"
+
+# Model settings
+ollama_model: "codellama"
+
+# Excluded directories
+excluded_directories:
+  - .git
+  - __pycache__
+  - venv
+  - .venv

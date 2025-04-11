@@ -1,0 +1,31 @@
+# Testing
+pytest>=7.3.1
+pytest-cov>=4.1.0
+pytest-xdist>=3.3.1  # For parallel testing
+pytest-timeout>=2.1.0  # For test timeouts
+
+# Code quality
+black>=23.3.0
+pylint>=2.17.0
+mypy>=1.3.0
+flake8>=6.1.0
+bandit>=1.7.5  # For security checks
+
+# Type checking
+types-PyYAML>=6.0.1
+types-Pillow>=10.0.0
+
+# Development tools
+memory-profiler>=0.61.0
+line-profiler>=4.1.1
+ipython>=8.12.0  # For interactive debugging
+ipdb>=0.13.13   # For enhanced debugging
+
+# Documentation
+pdoc3>=0.10.0  # For API documentation generation
+mkdocs>=1.4.3  # For documentation site generation
+mkdocs-material>=9.1.18
+
+# Image processing (for visual tests)
+Pillow>=10.0.0
+imagehash>=4.3.1  # For image comparison

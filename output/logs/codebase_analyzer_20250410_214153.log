@@ -1,0 +1,14 @@
+2025-04-10 21:41:53,273 - codebase_analyzer - INFO - Analyzing sample_code.py
+2025-04-10 21:41:53,275 - codebase_analyzer - CRITICAL - Uncaught exception:
+Traceback (most recent call last):
+  File "main.py", line 88, in <module>
+    sys.exit(main())
+  File "main.py", line 80, in main
+    visualizer.visualize_dependencies(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 243, in visualize_dependencies
+    self.create_static_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 147, in create_static_graph
+    if func not in [n.get_name() for n in dot.body]:
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 147, in <listcomp>
+    if func not in [n.get_name() for n in dot.body]:
+AttributeError: 'str' object has no attribute 'get_name'

@@ -1,0 +1,4 @@
+2025-04-11 15:09:24,177 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations')
+2025-04-11 15:09:24,179 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 15:09:24,181 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'sample_code']
+2025-04-11 15:09:24,796 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'

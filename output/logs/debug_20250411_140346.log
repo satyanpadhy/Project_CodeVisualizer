@@ -1,0 +1,18 @@
+2025-04-11 14:03:46,183 - DEBUG - Output base path: C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code
+2025-04-11 14:03:46,184 - DEBUG - Starting static graph creation...
+2025-04-11 14:03:49,239 - DEBUG - Static visualization saved as C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.png
+2025-04-11 14:03:49,241 - DEBUG - Starting interactive graph creation...
+2025-04-11 14:03:49,261 - DEBUG - Error in visualization process: 'NoneType' object has no attribute 'render'
+2025-04-11 14:03:49,262 - DEBUG - Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 375, in visualize_dependencies
+    self.create_interactive_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 138, in create_interactive_graph
+    net.show(f"{output_path}.html")
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 546, in show
+    self.write_html(name, open_browser=False,notebook=True)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 515, in write_html
+    self.html = self.generate_html(notebook=notebook)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 479, in generate_html
+    self.html = template.render(height=height,
+AttributeError: 'NoneType' object has no attribute 'render'
+

@@ -1,0 +1,5 @@
+2025-04-11 13:02:39,450 - codebase_analyzer - INFO - Analyzing sample_code.py
+2025-04-11 13:02:39,454 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations')
+2025-04-11 13:02:39,455 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 13:02:39,456 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'sample_code']
+2025-04-11 13:02:41,103 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'

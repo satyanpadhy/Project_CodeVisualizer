@@ -1,0 +1,117 @@
+DEBUG [2025-04-11 14:18:01]: 
+=== Starting Analysis ===
+DEBUG [2025-04-11 14:18:01]: 
+1. Analyzing file: sample_code.py
+DEBUG [2025-04-11 14:18:01]:    Output directory: C:\Users\teladmin\Documents\Proj_como\output\visualizations
+DEBUG [2025-04-11 14:18:01]: 
+2. Extracting metadata...
+DEBUG [2025-04-11 14:18:01]:    Found 15 functions with dependencies:
+DEBUG [2025-04-11 14:18:01]:    - sample_function_one: []
+DEBUG [2025-04-11 14:18:01]:    - sample_function_two: ['sample_function_one']
+DEBUG [2025-04-11 14:18:01]:    - sample_function_three: ['sample_function_two']
+DEBUG [2025-04-11 14:18:01]:    - factorial: ['factorial']
+DEBUG [2025-04-11 14:18:01]:    - fibonacci: ['fibonacci', 'calculate_sequence']
+DEBUG [2025-04-11 14:18:01]:    - calculate_sequence: ['fibonacci', 'factorial', 'format_output']
+DEBUG [2025-04-11 14:18:01]:    - format_output: ['validate_input']
+DEBUG [2025-04-11 14:18:01]:    - validate_input: ['log_error']
+DEBUG [2025-04-11 14:18:01]:    - log_error: ['get_timestamp']
+DEBUG [2025-04-11 14:18:01]:    - get_timestamp: []
+DEBUG [2025-04-11 14:18:01]:    - process_data: ['validate_input', 'transform_data', 'analyze_results']
+DEBUG [2025-04-11 14:18:01]:    - transform_data: ['validate_input', 'log_error']
+DEBUG [2025-04-11 14:18:01]:    - analyze_results: ['calculate_statistics', 'generate_report']
+DEBUG [2025-04-11 14:18:01]:    - calculate_statistics: ['validate_input']
+DEBUG [2025-04-11 14:18:01]:    - generate_report: ['format_output', 'get_timestamp']
+DEBUG [2025-04-11 14:18:01]: 
+3. Generating visualizations...
+DEBUG [2025-04-11 14:18:01]: Output base path: C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code
+DEBUG [2025-04-11 14:18:01]: Starting static graph creation...
+DEBUG [2025-04-11 14:18:04]: Static visualization saved as C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.png
+DEBUG [2025-04-11 14:18:04]: Starting interactive graph creation...
+DEBUG [2025-04-11 14:18:04]: Error in visualization process: 'NoneType' object has no attribute 'render'
+DEBUG [2025-04-11 14:18:04]: Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 375, in visualize_dependencies
+    self.create_interactive_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 138, in create_interactive_graph
+    net.show(f"{output_path}.html")
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 546, in show
+    self.write_html(name, open_browser=False,notebook=True)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 515, in write_html
+    self.html = self.generate_html(notebook=notebook)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 479, in generate_html
+    self.html = template.render(height=height,
+AttributeError: 'NoneType' object has no attribute 'render'
+
+DEBUG [2025-04-11 14:18:04]: 
+Error during visualization: 'NoneType' object has no attribute 'render'
+DEBUG [2025-04-11 14:18:04]: Stack trace:
+DEBUG [2025-04-11 14:18:04]: Traceback (most recent call last):
+  File "main.py", line 88, in main
+    visualizer.visualize_dependencies(metadata, base_name)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 375, in visualize_dependencies
+    self.create_interactive_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 138, in create_interactive_graph
+    net.show(f"{output_path}.html")
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 546, in show
+    self.write_html(name, open_browser=False,notebook=True)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 515, in write_html
+    self.html = self.generate_html(notebook=notebook)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 479, in generate_html
+    self.html = template.render(height=height,
+AttributeError: 'NoneType' object has no attribute 'render'
+
+DEBUG [2025-04-11 14:29:26]: 
+=== Starting Analysis ===
+DEBUG [2025-04-11 14:29:26]: 
+1. Analyzing file: sample_code.py
+DEBUG [2025-04-11 14:29:26]:    Output directory: C:\Users\teladmin\Documents\Proj_como\output\visualizations
+DEBUG [2025-04-11 14:29:26]: 
+2. Extracting metadata...
+DEBUG [2025-04-11 14:29:26]:    Found 15 functions with dependencies:
+DEBUG [2025-04-11 14:29:26]:    - sample_function_one: []
+DEBUG [2025-04-11 14:29:26]:    - sample_function_two: ['sample_function_one']
+DEBUG [2025-04-11 14:29:26]:    - sample_function_three: ['sample_function_two']
+DEBUG [2025-04-11 14:29:26]:    - factorial: ['factorial']
+DEBUG [2025-04-11 14:29:26]:    - fibonacci: ['fibonacci', 'calculate_sequence']
+DEBUG [2025-04-11 14:29:26]:    - calculate_sequence: ['fibonacci', 'factorial', 'format_output']
+DEBUG [2025-04-11 14:29:26]:    - format_output: ['validate_input']
+DEBUG [2025-04-11 14:29:26]:    - validate_input: ['log_error']
+DEBUG [2025-04-11 14:29:26]:    - log_error: ['get_timestamp']
+DEBUG [2025-04-11 14:29:26]:    - get_timestamp: []
+DEBUG [2025-04-11 14:29:26]:    - process_data: ['validate_input', 'transform_data', 'analyze_results']
+DEBUG [2025-04-11 14:29:26]:    - transform_data: ['validate_input', 'log_error']
+DEBUG [2025-04-11 14:29:26]:    - analyze_results: ['calculate_statistics', 'generate_report']
+DEBUG [2025-04-11 14:29:26]:    - calculate_statistics: ['validate_input']
+DEBUG [2025-04-11 14:29:26]:    - generate_report: ['format_output', 'get_timestamp']
+DEBUG [2025-04-11 14:29:26]: 
+3. Generating visualizations...
+DEBUG [2025-04-11 14:29:30]: 
+4. Analysis complete!
+DEBUG [2025-04-11 14:29:30]:    Check the output in: C:\Users\teladmin\Documents\Proj_como\output\visualizations
+DEBUG [2025-04-11 14:33:32]: 
+=== Starting Analysis ===
+DEBUG [2025-04-11 14:33:32]: 
+1. Analyzing file: sample_code.py
+DEBUG [2025-04-11 14:33:32]:    Output directory: C:\Users\teladmin\Documents\Proj_como\output\visualizations
+DEBUG [2025-04-11 14:33:32]: 
+2. Extracting metadata...
+DEBUG [2025-04-11 14:33:32]:    Found 15 functions with dependencies:
+DEBUG [2025-04-11 14:33:32]:    - sample_function_one: []
+DEBUG [2025-04-11 14:33:33]:    - sample_function_two: ['sample_function_one']
+DEBUG [2025-04-11 14:33:33]:    - sample_function_three: ['sample_function_two']
+DEBUG [2025-04-11 14:33:33]:    - factorial: ['factorial']
+DEBUG [2025-04-11 14:33:33]:    - fibonacci: ['fibonacci', 'calculate_sequence']
+DEBUG [2025-04-11 14:33:33]:    - calculate_sequence: ['fibonacci', 'factorial', 'format_output']
+DEBUG [2025-04-11 14:33:33]:    - format_output: ['validate_input']
+DEBUG [2025-04-11 14:33:33]:    - validate_input: ['log_error']
+DEBUG [2025-04-11 14:33:33]:    - log_error: ['get_timestamp']
+DEBUG [2025-04-11 14:33:33]:    - get_timestamp: []
+DEBUG [2025-04-11 14:33:33]:    - process_data: ['validate_input', 'transform_data', 'analyze_results']
+DEBUG [2025-04-11 14:33:33]:    - transform_data: ['validate_input', 'log_error']
+DEBUG [2025-04-11 14:33:33]:    - analyze_results: ['calculate_statistics', 'generate_report']
+DEBUG [2025-04-11 14:33:33]:    - calculate_statistics: ['validate_input']
+DEBUG [2025-04-11 14:33:33]:    - generate_report: ['format_output', 'get_timestamp']
+DEBUG [2025-04-11 14:33:33]: 
+3. Generating visualizations...
+DEBUG [2025-04-11 14:33:35]: 
+4. Analysis complete!
+DEBUG [2025-04-11 14:33:35]:    Check the output in: C:\Users\teladmin\Documents\Proj_como\output\visualizations

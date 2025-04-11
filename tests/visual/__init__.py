@@ -1,0 +1,1 @@
+"""Visual regression tests for graph visualization output."""

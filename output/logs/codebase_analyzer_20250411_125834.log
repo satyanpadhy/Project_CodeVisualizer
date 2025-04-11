@@ -1,0 +1,2 @@
+2025-04-11 12:58:34,410 - codebase_analyzer - INFO - Analyzing sample_code.py
+2025-04-11 12:58:38,636 - codebase_analyzer - ERROR - Error generating visualizations: 'NoneType' object has no attribute 'render'

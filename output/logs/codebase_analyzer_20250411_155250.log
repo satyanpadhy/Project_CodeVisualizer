@@ -1,0 +1,387 @@
+2025-04-11 15:52:55,323 - visualizer - INFO - Creating visualizations in: C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code
+2025-04-11 15:52:55,324 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations')
+2025-04-11 15:52:55,325 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 15:52:55,327 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'sample_code']
+2025-04-11 15:52:55,979 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 15:52:55,980 - visualizer - INFO - Static visualization saved to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.png
+2025-04-11 15:52:56,002 - visualizer - INFO - Interactive visualization saved to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.html
+2025-04-11 15:52:56,005 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:52:56,005 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_000'
+2025-04-11 15:52:56,007 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_000']
+2025-04-11 15:52:56,861 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_000'
+2025-04-11 15:52:56,969 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:56,969 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:56,969 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:56,970 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:56,970 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:56,970 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:56,970 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:56,970 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:56,984 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:52:56,985 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:52:56,986 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_001'
+2025-04-11 15:52:56,987 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_001']
+2025-04-11 15:52:58,091 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_001'
+2025-04-11 15:52:58,118 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:58,119 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:58,119 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:58,120 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:58,120 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:58,121 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:58,121 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:58,121 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:58,151 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:52:58,154 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:52:58,155 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_002'
+2025-04-11 15:52:58,157 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_002']
+2025-04-11 15:52:59,040 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_002'
+2025-04-11 15:52:59,046 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:59,046 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:59,047 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:59,047 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:59,047 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:59,047 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:59,047 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:59,048 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:59,055 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:52:59,056 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:52:59,056 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_003'
+2025-04-11 15:52:59,057 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_003']
+2025-04-11 15:52:59,794 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_003'
+2025-04-11 15:52:59,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:59,799 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:59,800 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:59,800 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:59,801 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:52:59,801 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:52:59,802 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:52:59,802 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:52:59,816 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:52:59,816 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:52:59,817 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_004'
+2025-04-11 15:52:59,818 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_004']
+2025-04-11 15:53:00,619 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_004'
+2025-04-11 15:53:00,624 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:00,624 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:00,624 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:00,625 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:00,625 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:00,625 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:00,625 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:00,625 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:00,636 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:00,637 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:00,639 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_005'
+2025-04-11 15:53:00,640 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_005']
+2025-04-11 15:53:01,455 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_005'
+2025-04-11 15:53:01,457 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:01,458 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:01,458 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:01,458 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:01,459 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:01,459 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:01,459 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:01,459 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:01,470 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:01,470 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:01,471 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_006'
+2025-04-11 15:53:01,473 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_006']
+2025-04-11 15:53:02,554 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_006'
+2025-04-11 15:53:02,560 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:02,560 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:02,561 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:02,561 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:02,561 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:02,561 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:02,562 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:02,562 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:02,576 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:02,577 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:02,578 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_007'
+2025-04-11 15:53:02,581 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_007']
+2025-04-11 15:53:03,497 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_007'
+2025-04-11 15:53:03,499 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:03,500 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:03,501 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:03,501 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:03,501 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:03,501 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:03,502 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:03,502 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:03,511 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:03,512 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:03,513 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_008'
+2025-04-11 15:53:03,513 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_008']
+2025-04-11 15:53:04,215 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_008'
+2025-04-11 15:53:04,221 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:04,221 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:04,221 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:04,222 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:04,222 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:04,222 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:04,223 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:04,223 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:04,232 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:04,233 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:04,233 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_009'
+2025-04-11 15:53:04,234 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_009']
+2025-04-11 15:53:04,929 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_009'
+2025-04-11 15:53:04,931 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:04,931 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:04,931 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:04,932 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:04,932 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:04,932 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:04,932 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:04,932 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:04,956 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:04,959 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:04,963 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_010'
+2025-04-11 15:53:04,971 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_010']
+2025-04-11 15:53:05,794 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_010'
+2025-04-11 15:53:05,859 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:05,881 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:05,882 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:05,883 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:05,885 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:05,886 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:05,887 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:05,888 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:05,932 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:05,933 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:05,934 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_011'
+2025-04-11 15:53:05,948 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_011']
+2025-04-11 15:53:07,657 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_011'
+2025-04-11 15:53:07,669 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:07,669 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:07,669 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:07,670 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:07,670 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:07,670 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:07,671 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:07,671 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:07,701 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:07,704 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:07,709 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_012'
+2025-04-11 15:53:07,713 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_012']
+2025-04-11 15:53:08,738 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_012'
+2025-04-11 15:53:08,755 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:08,756 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:08,757 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:08,766 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:08,769 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:08,769 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:08,770 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:08,770 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:08,790 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:08,791 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:08,792 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_013'
+2025-04-11 15:53:08,794 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_013']
+2025-04-11 15:53:09,675 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_013'
+2025-04-11 15:53:09,690 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:09,702 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:09,703 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:09,703 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:09,703 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:09,703 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:09,703 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:09,707 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:09,740 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:09,742 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:09,744 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_014'
+2025-04-11 15:53:09,749 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_014']
+2025-04-11 15:53:10,916 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_014'
+2025-04-11 15:53:10,950 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:10,950 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:10,950 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:10,950 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:10,950 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:10,954 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:10,954 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:10,954 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:10,991 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:10,997 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:10,999 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_015'
+2025-04-11 15:53:11,003 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_015']
+2025-04-11 15:53:11,855 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_015'
+2025-04-11 15:53:11,860 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:11,860 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:11,860 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:11,861 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:11,861 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:11,861 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:11,861 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:11,862 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:11,876 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:11,877 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:11,878 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_016'
+2025-04-11 15:53:11,879 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_016']
+2025-04-11 15:53:12,558 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_016'
+2025-04-11 15:53:12,561 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:12,561 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:12,562 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:12,562 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:12,562 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:12,563 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:12,563 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:12,563 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:12,585 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:12,586 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:12,587 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_017'
+2025-04-11 15:53:12,587 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_017']
+2025-04-11 15:53:13,277 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_017'
+2025-04-11 15:53:13,279 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:13,280 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:13,280 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:13,280 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:13,280 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:13,281 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:13,281 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:13,281 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:13,290 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:13,291 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:13,291 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_018'
+2025-04-11 15:53:13,292 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_018']
+2025-04-11 15:53:13,868 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_018'
+2025-04-11 15:53:13,872 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:13,872 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:13,873 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:13,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:13,873 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:13,873 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:13,874 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:13,874 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:13,883 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:13,884 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:13,885 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_019'
+2025-04-11 15:53:13,886 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_019']
+2025-04-11 15:53:14,551 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_019'
+2025-04-11 15:53:14,553 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:14,553 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:14,553 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:14,554 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:14,554 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:14,554 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:14,554 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:14,555 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:14,563 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:14,564 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:14,564 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_020'
+2025-04-11 15:53:14,565 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_020']
+2025-04-11 15:53:15,251 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_020'
+2025-04-11 15:53:15,255 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:15,255 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:15,256 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:15,256 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:15,256 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:15,257 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:15,257 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:15,257 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:15,274 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:15,275 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:15,276 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_021'
+2025-04-11 15:53:15,277 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_021']
+2025-04-11 15:53:16,360 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_021'
+2025-04-11 15:53:16,379 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:16,381 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:16,381 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:16,382 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:16,382 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:16,383 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:16,383 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:16,384 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:16,409 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:16,410 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6')
+2025-04-11 15:53:16,411 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_022'
+2025-04-11 15:53:16,414 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_022']
+2025-04-11 15:53:17,570 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpgps3gyh6\\frame_022'
+2025-04-11 15:53:17,624 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:17,627 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:17,628 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:17,630 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:17,632 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 15:53:17,633 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 15:53:17,634 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 15:53:17,634 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 15:53:17,680 - PIL.Image - DEBUG - Error closing: Operation on closed image
+2025-04-11 15:53:17,687 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2025-04-11 15:53:17,691 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2025-04-11 15:53:17,693 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2025-04-11 15:53:17,696 - PIL.Image - DEBUG - Importing CurImagePlugin
+2025-04-11 15:53:17,711 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2025-04-11 15:53:17,752 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2025-04-11 15:53:17,787 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2025-04-11 15:53:17,803 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2025-04-11 15:53:17,807 - PIL.Image - DEBUG - Importing FliImagePlugin
+2025-04-11 15:53:17,809 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2025-04-11 15:53:17,816 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-11 15:53:17,818 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2025-04-11 15:53:17,828 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2025-04-11 15:53:17,835 - PIL.Image - DEBUG - Importing GifImagePlugin
+2025-04-11 15:53:17,839 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2025-04-11 15:53:17,854 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-11 15:53:17,861 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2025-04-11 15:53:17,893 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2025-04-11 15:53:17,904 - PIL.Image - DEBUG - Importing ImImagePlugin
+2025-04-11 15:53:17,910 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2025-04-11 15:53:17,915 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2025-04-11 15:53:17,930 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2025-04-11 15:53:17,935 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-11 15:53:17,937 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2025-04-11 15:53:17,949 - PIL.Image - DEBUG - Importing MicImagePlugin
+2025-04-11 15:53:17,958 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-11 15:53:17,958 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2025-04-11 15:53:17,962 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2025-04-11 15:53:17,994 - PIL.Image - DEBUG - Importing MspImagePlugin
+2025-04-11 15:53:18,004 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2025-04-11 15:53:18,011 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2025-04-11 15:53:18,018 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2025-04-11 15:53:18,020 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2025-04-11 15:53:18,060 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2025-04-11 15:53:18,064 - PIL.Image - DEBUG - Importing PngImagePlugin
+2025-04-11 15:53:18,066 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2025-04-11 15:53:18,067 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2025-04-11 15:53:18,081 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2025-04-11 15:53:18,088 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2025-04-11 15:53:18,091 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2025-04-11 15:53:18,098 - PIL.Image - DEBUG - Importing SunImagePlugin
+2025-04-11 15:53:18,111 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2025-04-11 15:53:18,134 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2025-04-11 15:53:18,136 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2025-04-11 15:53:18,154 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2025-04-11 15:53:18,173 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2025-04-11 15:53:18,191 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2025-04-11 15:53:18,195 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2025-04-11 15:53:18,207 - visualizer - ERROR - Error creating animation: all input arrays must have the same shape
+Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 313, in create_animated_flow
+    imageio.mimsave(output_path, frames, duration=1.0)  # 1 second per frame
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\imageio\v2.py", line 495, in mimwrite
+    return file.write(ims, is_batch=True, **kwargs)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\imageio\plugins\pillow.py", line 417, in write
+    ndimage = np.stack(ndimage, axis=0)
+  File "<__array_function__ internals>", line 200, in stack
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\numpy\core\shape_base.py", line 464, in stack
+    raise ValueError('all input arrays must have the same shape')
+ValueError: all input arrays must have the same shape
+2025-04-11 15:53:18,233 - visualizer - ERROR - Error in visualization process: Failed to create animation: all input arrays must have the same shape
+Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 313, in create_animated_flow
+    imageio.mimsave(output_path, frames, duration=1.0)  # 1 second per frame
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\imageio\v2.py", line 495, in mimwrite
+    return file.write(ims, is_batch=True, **kwargs)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\imageio\plugins\pillow.py", line 417, in write
+    ndimage = np.stack(ndimage, axis=0)
+  File "<__array_function__ internals>", line 200, in stack
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\numpy\core\shape_base.py", line 464, in stack
+    raise ValueError('all input arrays must have the same shape')
+ValueError: all input arrays must have the same shape
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 247, in visualize_dependencies
+    self.create_animated_flow(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 321, in create_animated_flow
+    raise VisualizationError(f"Failed to create animation: {str(e)}")
+error_handler.VisualizationError: Failed to create animation: all input arrays must have the same shape

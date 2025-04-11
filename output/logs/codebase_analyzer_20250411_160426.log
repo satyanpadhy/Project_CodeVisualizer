@@ -1,0 +1,241 @@
+2025-04-11 16:04:29,968 - visualizer - INFO - Creating visualizations in: C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code
+2025-04-11 16:04:29,970 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations')
+2025-04-11 16:04:29,970 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 16:04:29,972 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'sample_code']
+2025-04-11 16:04:30,613 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\Documents\\Proj_como\\output\\visualizations\\sample_code'
+2025-04-11 16:04:30,614 - visualizer - INFO - Static visualization saved to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.png
+2025-04-11 16:04:30,635 - visualizer - INFO - Interactive visualization saved to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.html
+2025-04-11 16:04:30,638 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:30,639 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_000'
+2025-04-11 16:04:30,640 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_000']
+2025-04-11 16:04:31,361 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_000'
+2025-04-11 16:04:31,402 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:31,403 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:31,403 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:31,404 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:31,436 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:31,436 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_001'
+2025-04-11 16:04:31,437 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_001']
+2025-04-11 16:04:32,049 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_001'
+2025-04-11 16:04:32,067 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:32,068 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:32,069 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:32,070 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:32,121 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:32,124 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_002'
+2025-04-11 16:04:32,127 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_002']
+2025-04-11 16:04:32,832 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_002'
+2025-04-11 16:04:32,834 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:32,835 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:32,835 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:32,835 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:32,875 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:32,876 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_003'
+2025-04-11 16:04:32,877 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_003']
+2025-04-11 16:04:33,521 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_003'
+2025-04-11 16:04:33,525 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:33,525 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:33,526 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:33,527 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:33,594 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:33,594 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_004'
+2025-04-11 16:04:33,595 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_004']
+2025-04-11 16:04:34,303 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_004'
+2025-04-11 16:04:34,306 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:34,306 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:34,306 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:34,306 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:34,349 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:34,350 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_005'
+2025-04-11 16:04:34,351 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_005']
+2025-04-11 16:04:34,998 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_005'
+2025-04-11 16:04:34,999 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:35,000 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:35,000 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:35,000 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:35,034 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:35,035 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_006'
+2025-04-11 16:04:35,036 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_006']
+2025-04-11 16:04:35,627 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_006'
+2025-04-11 16:04:35,629 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:35,630 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:35,630 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:35,630 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:35,664 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:35,664 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_007'
+2025-04-11 16:04:35,665 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_007']
+2025-04-11 16:04:36,222 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_007'
+2025-04-11 16:04:36,224 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:36,224 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:36,224 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:36,224 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:36,254 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:36,257 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_008'
+2025-04-11 16:04:36,258 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_008']
+2025-04-11 16:04:36,864 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_008'
+2025-04-11 16:04:36,865 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:36,866 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:36,866 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:36,867 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:36,897 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:36,898 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_009'
+2025-04-11 16:04:36,899 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_009']
+2025-04-11 16:04:37,597 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_009'
+2025-04-11 16:04:37,604 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:37,604 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:37,604 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:37,606 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:37,639 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:37,640 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_010'
+2025-04-11 16:04:37,640 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_010']
+2025-04-11 16:04:38,148 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_010'
+2025-04-11 16:04:38,151 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:38,152 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:38,152 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:38,152 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:38,182 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:38,182 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_011'
+2025-04-11 16:04:38,183 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_011']
+2025-04-11 16:04:38,754 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_011'
+2025-04-11 16:04:38,756 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:38,757 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:38,757 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:38,757 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:38,789 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:38,790 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_012'
+2025-04-11 16:04:38,791 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_012']
+2025-04-11 16:04:39,367 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_012'
+2025-04-11 16:04:39,369 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:39,369 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:39,369 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:39,369 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:39,391 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:39,392 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_013'
+2025-04-11 16:04:39,392 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_013']
+2025-04-11 16:04:40,069 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_013'
+2025-04-11 16:04:40,071 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:40,071 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:40,072 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:40,072 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:40,098 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:40,099 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_014'
+2025-04-11 16:04:40,101 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_014']
+2025-04-11 16:04:40,853 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_014'
+2025-04-11 16:04:40,857 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:40,857 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:40,858 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:40,858 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:40,897 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:40,897 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_015'
+2025-04-11 16:04:40,899 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_015']
+2025-04-11 16:04:41,583 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_015'
+2025-04-11 16:04:41,592 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:41,593 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:41,593 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:41,594 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:41,631 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:41,632 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_016'
+2025-04-11 16:04:41,633 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_016']
+2025-04-11 16:04:42,213 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_016'
+2025-04-11 16:04:42,216 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:42,217 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:42,217 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:42,217 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:42,252 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:42,253 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_017'
+2025-04-11 16:04:42,255 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_017']
+2025-04-11 16:04:43,088 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_017'
+2025-04-11 16:04:43,090 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:43,090 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:43,091 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:43,091 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:43,114 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:43,115 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_018'
+2025-04-11 16:04:43,118 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_018']
+2025-04-11 16:04:44,054 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_018'
+2025-04-11 16:04:44,070 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:44,071 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:44,071 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:44,071 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:44,129 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:44,133 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_019'
+2025-04-11 16:04:44,135 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_019']
+2025-04-11 16:04:44,886 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_019'
+2025-04-11 16:04:44,887 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:44,887 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:44,888 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:44,888 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:44,911 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:44,912 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_020'
+2025-04-11 16:04:44,913 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_020']
+2025-04-11 16:04:45,506 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_020'
+2025-04-11 16:04:45,507 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:45,508 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:45,508 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:45,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:45,526 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:45,528 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_021'
+2025-04-11 16:04:45,529 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_021']
+2025-04-11 16:04:46,148 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_021'
+2025-04-11 16:04:46,150 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:46,150 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:46,150 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:46,151 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:46,179 - graphviz._tools - DEBUG - os.makedirs('C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac')
+2025-04-11 16:04:46,180 - graphviz.saving - DEBUG - write lines to 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_022'
+2025-04-11 16:04:46,181 - graphviz.backend.execute - DEBUG - run [WindowsPath('dot'), '-Kdot', '-Tpng', '-O', 'frame_022']
+2025-04-11 16:04:46,797 - graphviz.rendering - DEBUG - delete 'C:\\Users\\teladmin\\AppData\\Local\\Temp\\tmpmu_lbwac\\frame_022'
+2025-04-11 16:04:46,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-04-11 16:04:46,799 - PIL.PngImagePlugin - DEBUG - STREAM b'bKGD' 41 6
+2025-04-11 16:04:46,799 - PIL.PngImagePlugin - DEBUG - b'bKGD' 41 6 (unknown)
+2025-04-11 16:04:46,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 59 8192
+2025-04-11 16:04:46,830 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2025-04-11 16:04:46,832 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2025-04-11 16:04:46,832 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2025-04-11 16:04:46,834 - PIL.Image - DEBUG - Importing CurImagePlugin
+2025-04-11 16:04:46,835 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2025-04-11 16:04:46,837 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2025-04-11 16:04:46,841 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2025-04-11 16:04:46,842 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2025-04-11 16:04:46,844 - PIL.Image - DEBUG - Importing FliImagePlugin
+2025-04-11 16:04:46,845 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2025-04-11 16:04:46,846 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-04-11 16:04:46,846 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2025-04-11 16:04:46,848 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2025-04-11 16:04:46,849 - PIL.Image - DEBUG - Importing GifImagePlugin
+2025-04-11 16:04:46,849 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2025-04-11 16:04:46,851 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2025-04-11 16:04:46,853 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2025-04-11 16:04:46,859 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2025-04-11 16:04:46,861 - PIL.Image - DEBUG - Importing ImImagePlugin
+2025-04-11 16:04:46,862 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2025-04-11 16:04:46,864 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2025-04-11 16:04:46,865 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2025-04-11 16:04:46,865 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2025-04-11 16:04:46,865 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2025-04-11 16:04:46,866 - PIL.Image - DEBUG - Importing MicImagePlugin
+2025-04-11 16:04:46,868 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-04-11 16:04:46,869 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2025-04-11 16:04:46,870 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2025-04-11 16:04:46,872 - PIL.Image - DEBUG - Importing MspImagePlugin
+2025-04-11 16:04:46,873 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2025-04-11 16:04:46,875 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2025-04-11 16:04:46,877 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2025-04-11 16:04:46,877 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2025-04-11 16:04:46,884 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2025-04-11 16:04:46,886 - PIL.Image - DEBUG - Importing PngImagePlugin
+2025-04-11 16:04:46,886 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2025-04-11 16:04:46,886 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2025-04-11 16:04:46,887 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2025-04-11 16:04:46,888 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2025-04-11 16:04:46,889 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2025-04-11 16:04:46,891 - PIL.Image - DEBUG - Importing SunImagePlugin
+2025-04-11 16:04:46,892 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2025-04-11 16:04:46,893 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2025-04-11 16:04:46,893 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2025-04-11 16:04:46,896 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2025-04-11 16:04:46,897 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2025-04-11 16:04:46,898 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2025-04-11 16:04:46,900 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2025-04-11 16:04:48,232 - visualizer - INFO - Animated flow visualization saved to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code_flow.gif
+2025-04-11 16:04:48,238 - visualizer - INFO - Metrics exported to C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code_metrics.json

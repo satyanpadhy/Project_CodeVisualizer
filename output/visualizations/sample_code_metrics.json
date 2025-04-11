@@ -1,0 +1,77 @@
+{
+  "analyze_results": {
+    "in_degree": 1,
+    "out_degree": 2,
+    "is_recursive": false
+  },
+  "calculate_statistics": {
+    "in_degree": 1,
+    "out_degree": 1,
+    "is_recursive": false
+  },
+  "generate_report": {
+    "in_degree": 1,
+    "out_degree": 2,
+    "is_recursive": false
+  },
+  "calculate_sequence": {
+    "in_degree": 1,
+    "out_degree": 3,
+    "is_recursive": false
+  },
+  "fibonacci": {
+    "in_degree": 2,
+    "out_degree": 2,
+    "is_recursive": true
+  },
+  "factorial": {
+    "in_degree": 2,
+    "out_degree": 1,
+    "is_recursive": true
+  },
+  "format_output": {
+    "in_degree": 2,
+    "out_degree": 1,
+    "is_recursive": false
+  },
+  "validate_input": {
+    "in_degree": 4,
+    "out_degree": 1,
+    "is_recursive": false
+  },
+  "get_timestamp": {
+    "in_degree": 2,
+    "out_degree": 0,
+    "is_recursive": false
+  },
+  "log_error": {
+    "in_degree": 2,
+    "out_degree": 1,
+    "is_recursive": false
+  },
+  "process_data": {
+    "in_degree": 0,
+    "out_degree": 3,
+    "is_recursive": false
+  },
+  "transform_data": {
+    "in_degree": 1,
+    "out_degree": 2,
+    "is_recursive": false
+  },
+  "sample_function_one": {
+    "in_degree": 1,
+    "out_degree": 0,
+    "is_recursive": false
+  },
+  "sample_function_three": {
+    "in_degree": 0,
+    "out_degree": 1,
+    "is_recursive": false
+  },
+  "sample_function_two": {
+    "in_degree": 1,
+    "out_degree": 1,
+    "is_recursive": false
+  }
+}

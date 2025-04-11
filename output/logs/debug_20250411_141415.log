@@ -1,0 +1,61 @@
+2025-04-11 14:14:15,430 - DEBUG - 
+=== Starting Analysis ===
+2025-04-11 14:14:15,458 - DEBUG - 
+1. Analyzing file: sample_code.py
+2025-04-11 14:14:15,461 - DEBUG -    Output directory: C:\Users\teladmin\Documents\Proj_como\output\visualizations
+2025-04-11 14:14:15,461 - DEBUG - 
+2. Extracting metadata...
+2025-04-11 14:14:15,464 - DEBUG -    Found 15 functions with dependencies:
+2025-04-11 14:14:15,464 - DEBUG -    - sample_function_one: []
+2025-04-11 14:14:15,465 - DEBUG -    - sample_function_two: ['sample_function_one']
+2025-04-11 14:14:15,465 - DEBUG -    - sample_function_three: ['sample_function_two']
+2025-04-11 14:14:15,466 - DEBUG -    - factorial: ['factorial']
+2025-04-11 14:14:15,466 - DEBUG -    - fibonacci: ['fibonacci', 'calculate_sequence']
+2025-04-11 14:14:15,467 - DEBUG -    - calculate_sequence: ['fibonacci', 'factorial', 'format_output']
+2025-04-11 14:14:15,467 - DEBUG -    - format_output: ['validate_input']
+2025-04-11 14:14:15,467 - DEBUG -    - validate_input: ['log_error']
+2025-04-11 14:14:15,467 - DEBUG -    - log_error: ['get_timestamp']
+2025-04-11 14:14:15,467 - DEBUG -    - get_timestamp: []
+2025-04-11 14:14:15,467 - DEBUG -    - process_data: ['validate_input', 'transform_data', 'analyze_results']
+2025-04-11 14:14:15,467 - DEBUG -    - transform_data: ['validate_input', 'log_error']
+2025-04-11 14:14:15,468 - DEBUG -    - analyze_results: ['calculate_statistics', 'generate_report']
+2025-04-11 14:14:15,468 - DEBUG -    - calculate_statistics: ['validate_input']
+2025-04-11 14:14:15,468 - DEBUG -    - generate_report: ['format_output', 'get_timestamp']
+2025-04-11 14:14:15,468 - DEBUG - 
+3. Generating visualizations...
+2025-04-11 14:14:15,468 - DEBUG - Output base path: C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code
+2025-04-11 14:14:15,470 - DEBUG - Starting static graph creation...
+2025-04-11 14:14:18,435 - DEBUG - Static visualization saved as C:\Users\teladmin\Documents\Proj_como\output\visualizations\sample_code.png
+2025-04-11 14:14:18,436 - DEBUG - Starting interactive graph creation...
+2025-04-11 14:14:18,457 - DEBUG - Error in visualization process: 'NoneType' object has no attribute 'render'
+2025-04-11 14:14:18,458 - DEBUG - Traceback (most recent call last):
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 375, in visualize_dependencies
+    self.create_interactive_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 138, in create_interactive_graph
+    net.show(f"{output_path}.html")
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 546, in show
+    self.write_html(name, open_browser=False,notebook=True)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 515, in write_html
+    self.html = self.generate_html(notebook=notebook)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 479, in generate_html
+    self.html = template.render(height=height,
+AttributeError: 'NoneType' object has no attribute 'render'
+
+2025-04-11 14:14:18,459 - DEBUG - 
+Error during visualization: 'NoneType' object has no attribute 'render'
+2025-04-11 14:14:18,460 - DEBUG - Stack trace:
+2025-04-11 14:14:18,460 - DEBUG - Traceback (most recent call last):
+  File "main.py", line 88, in main
+    visualizer.visualize_dependencies(metadata, base_name)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 375, in visualize_dependencies
+    self.create_interactive_graph(metadata, output_base)
+  File "C:\Users\teladmin\Documents\Proj_como\visualizer.py", line 138, in create_interactive_graph
+    net.show(f"{output_path}.html")
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 546, in show
+    self.write_html(name, open_browser=False,notebook=True)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 515, in write_html
+    self.html = self.generate_html(notebook=notebook)
+  File "C:\Users\teladmin\Documents\Proj_como\.venv\lib\site-packages\pyvis\network.py", line 479, in generate_html
+    self.html = template.render(height=height,
+AttributeError: 'NoneType' object has no attribute 'render'
+
